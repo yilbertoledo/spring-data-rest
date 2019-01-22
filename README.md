@@ -5,8 +5,10 @@ Sample project based on Spring Boot 2.1.2.
 Exposes a simple Hypermedia-based RESTful service for managing resource (students). Uses Spring Data for persistence & H2 as database
 
 keywords:
-  Spring Boot 
-  Spring Data Rest
-  Spring HATEOAS
-  Maven
-  H2
+RESTful Service
+Spring Boot
+Spring Data Rest
+Spring HATEOAS
+Maven
+H2
+
